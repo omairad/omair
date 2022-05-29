@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\bin\Debug\net6.0\Calculator.ViewModel.deps.json
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\bin\Debug\net6.0\Calculator.ViewModel.dll
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\bin\Debug\net6.0\ref\Calculator.ViewModel.dll
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\bin\Debug\net6.0\Calculator.ViewModel.pdb
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.AssemblyInfo.cs
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.dll
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\ref\Calculator.ViewModel.dll
+C:\Users\user\Desktop\React\Calculator\Calculator.ViewModel\obj\Debug\net6.0\Calculator.ViewModel.pdb
